@@ -1,20 +1,10 @@
 ## Olá, eu sou Renan , estudante de progamação e apaixonado por Design! :)
 
-<!--
-**renantfm4/renantfm4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🌱 Eu estou estudando Engenharia de Software
-- 📫 Contate-me no email: renantfm0@gmail.com
-- 😄 Pronomes: ele/dele
--->
 
 <div align="center">
   <a href="https://github.com/renantfm4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renantfm4&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renantfm4&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renantfm4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renantfm4&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
     <p style= "text-indent: 5em;"><b> * Linguagens que estudo: </b></p>
@@ -32,6 +22,8 @@ Here are some ideas to get you started:
 
   <a href="https://instagram.com/renantfm_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:renantfm0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+ ## Cursando o 3º Semestre de Engenharia de Software na Universidade de Brasília
  
 </div>
   
