@@ -1,33 +1,69 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9D,100:7F00FF&height=95&section=header"/>
 
-## ✨ Olá, eu sou Renan , estudante de programação e apaixonado por Design! :) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF9D&size=25&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+Renan+Ara%C3%BAjo.;Engenheiro+de+Software+%7C+Front-end)](https://git.io/typing-svg)
 
+<p align="center">
+  <b>Engenheiro de Software</b> • <b>Especialista Front-end</b> • <b>Desenvolvedor Mobile</b> • <b>UI/UX</b>
+</p>
+
+<p align="center">
+  <a href="mailto:renantfm0@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF9D"></a>
+  <a href="https://www.linkedin.com/in/renanaraujo7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF9D"></a>
+  <a href="https://github.com/renantfm4" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF9D"></a>
+</p>
+
+<br/>
 
 <div align="center">
-  <a href="https://github.com/renantfm4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renantfm4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renantfm4&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://media.tenor.com/Dj6o3MqGOt0AAAAC/working-hard-computer.gif" alt="Coding GIF" width="360" style="border-radius: 16px;" />
 </div>
-    <div align="center">
-      <img align="center" alt="coding" height="190" style="border-radius:50px;" src="https://media.tenor.com/Dj6o3MqGOt0AAAAC/working-hard-computer.gif">
-    </div>
-<div style="display: inline_block"><br>
-    <p style= "text-indent: 5em;"><b> ⚡ Todas tecnologias e linguagens que tenho experiência: </b></p>
-  <img align="center" alt="Renan-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Renan-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Renan-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Renan-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Renan-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Renan-Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
-  
-</div>
-  
-  ##
 
-<div> 
-  <p style= "text-indent: 5em;"><b> 💡 Contato: </b></p>
-  <a href="https://www.linkedin.com/in/renanaraujo7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/renantfm_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:renantfm0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+---
+
+## Sobre mim
+
+- 🎓 Engenharia de Software na **Universidade de Brasília (UnB)** (2022 – Presente)
+- 🏦 Experiência em **Fintech / Banking Digital** (PIX, TED, boletos, onboarding e cripto)
+- ⚛️ Front-end: **Next.js (SSR/SSG)**, **Angular corporativo**, design system e acessibilidade
+- 📱 Mobile: **React Native + Expo** com foco em UX e performance
+- 🧾 PDFs dinâmicos: **jsPDF + AutoTable** com hooks custom e otimização
+- 🎨 UI/UX + Design: Figma, identidade visual e interfaces acessíveis
+
+---
+
+## Educação
+
+- **Universidade de Brasília (UnB)** — Engenharia de Software (**Jan 2022 – Presente**)
+
+---
+
+## Tecnologias
+
+### Front-end & Mobile
+<div align="center">
+  <img height="34" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img height="34" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height="34" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img height="34" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img height="34" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  <img height="34" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img height="34" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div>
-  
+
+### Back-end & Banco de Dados
+<div align="center">
+  <img height="34" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img height="34" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+</div>
+
+### Ferramentas & Design
+<div align="center">
+  <img height="34" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img height="34" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img height="34" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+</div>
+
+> Extras do dia a dia: **Zustand • Redux Toolkit • Shadcn/UI • MUI • RxJS • Zod • jsPDF (AutoTable)**
+
+---
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00FF9D&height=95&section=footer"/>
