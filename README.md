@@ -23,6 +23,7 @@
 ## Sobre mim
 
 - 🎓 Engenharia de Software na **Universidade de Brasília (UnB)** (2022 – Presente)
+- 🎮 Pós-Junior da Empresa Júnior Orc'estra Gamificação
 - 🏦 Experiência em **Fintech / Banking Digital** (PIX, TED, boletos, onboarding e cripto)
 - ⚛️ Front-end: **Next.js (SSR/SSG)**, **Angular corporativo**, design system e acessibilidade
 - 📱 Mobile: **React Native + Expo** com foco em UX e performance
